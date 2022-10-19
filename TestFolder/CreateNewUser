@@ -1,0 +1,2 @@
+New-ADUser -Name "erowetest1"
+Move-ADObject -Identity "CN=erowetest1,CN=Users,DC=testrowe,DC=local" -TargetPath "OU=Users,OU=Michigan,DC=testrowe,DC=local"
