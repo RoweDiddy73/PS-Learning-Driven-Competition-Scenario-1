@@ -1,6 +1,6 @@
 # PowerShell Learning-Driven Competition
 
-Team initiative to level up the Powershell skillset of the team as a whole.  The task is to create a script that
+Team initiative to level up the Powershell skill set of the team as a whole.  The task is to create a script that
 will look at the system resources for a cluster of Midware devices.  Here are the requirements.
 
 1. Detect Critical System Resources
